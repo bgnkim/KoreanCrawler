@@ -73,3 +73,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+# Crawled data
+crawled
+texts

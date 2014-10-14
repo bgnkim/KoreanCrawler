@@ -1,0 +1,24 @@
+{
+  "name": "SentenceCrawler",
+  "version": "0.0.0",
+  "description": "Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)\r  ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))",
+  "main": "crawler.js",
+  "dependencies": {
+    "async": "~0.9.0",
+    "dateformat": "^1.0.8",
+    "entities": "^1.1.1",
+    "express": "^4.9.0",
+    "jade": "^1.6.0",
+    "mkdirp": "^0.5.0",
+    "mongoose": "^3.8.16",
+    "numeral": "^1.5.3",
+    "redis": "^0.12.1",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
